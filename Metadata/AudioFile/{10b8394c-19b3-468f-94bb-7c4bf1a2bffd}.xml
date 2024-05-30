@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{10b8394c-19b3-468f-94bb-7c4bf1a2bffd}">
+		<property name="assetPath">
+			<value>SFX/Footsteps/Dirt/footstep_dirt_walk_run_03.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.25241666666666668</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{9558d902-3feb-4d2c-ac2d-80cd4d918f97}</destination>
+		</relationship>
+	</object>
+</objects>
