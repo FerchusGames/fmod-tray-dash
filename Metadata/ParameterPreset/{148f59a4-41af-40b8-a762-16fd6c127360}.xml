@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{148f59a4-41af-40b8-a762-16fd6c127360}">
+		<property name="name">
+			<value>Movement Speed</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9d6d6503-0b95-4dcc-b352-7b481fa9b6c7}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{423f3861-c66d-41fe-8642-0f70d4f719c2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{423f3861-c66d-41fe-8642-0f70d4f719c2}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>Slow</value>
+			<value>Normal</value>
+			<value>Fast</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
